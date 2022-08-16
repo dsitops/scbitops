@@ -50,7 +50,7 @@ services:
         logo: "/scbitops/assets/tools/disco.jpg"
         subtitle: "Network stats and config changes"
         tag: "Boogie Wonderland!"
-        url: "http://192.168.1.61:5000/"
+        url: "http://192.168.1.61:5000"
       - name: "LANSweeper"
         logo: "/scbitops/assets/tools/lansweeper.png"
         subtitle: "Workstation and Server Inventory Tool"
