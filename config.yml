@@ -81,6 +81,11 @@ services:
         subtitle: "Switch Config Backup Utility"
         tag: "Sudo? No, You do!"
         url: "http://owl.durasupreme.com:8085/"
+      - name: "APC Smart Connect"
+        logo: "/scbitops/assets/tools/APC-Logo.png"
+        subtitle: "APC Uninterrupted Power Supply Dashboard"
+        tag: "I can haz powaaa?"
+        url: "https://smartconnect.apc.com/dashboard"
   - name: "SaaS Apps"
     icon: "fas fa-cloud-upload-alt"
     items:
