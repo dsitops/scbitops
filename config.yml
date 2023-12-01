@@ -163,7 +163,7 @@ services:
         tag: "You've got mail!"
         url: "https://mxtoolbox.com/"
       - name: "Virus Total"
-        logo: "/scbitops/assets/tools/virustotal-public-api-loog.png"
+        logo: "/scbitops/assets/tools/virustotal.png"
         subtitle: "Scan a file to see if it is malicious"
         tag: "Total Scan"
         url: "https://www.virustotal.com"
